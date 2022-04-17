@@ -1,4 +1,4 @@
-# MultiLangSpeechToText or Mice ![android-chrome-192x192](https://user-images.githubusercontent.com/13531489/163712191-65643e6c-2c63-4cd2-b71f-00eef2a54fbf.png)
+# MultiLangSpeechToText or Mice ![favicon-32x32](https://user-images.githubusercontent.com/13531489/163712201-2c9ec0a2-2cb8-40bc-9d38-9309787d91ee.png)
 
 Hi everyone, here is a Speech to text app with multi language support. 
 it contains  all the item from ISO Language. user can select any of the iso to speeck in their language.
